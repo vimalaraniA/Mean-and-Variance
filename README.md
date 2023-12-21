@@ -49,8 +49,8 @@ It shows the distance of a random variable from its mean. It is calcualted as
 
 # Program :
 ```
-NAME:VIMALA RANI A
-REF NO:23008746
+DEVEOPED BY:VIMALA RANI A
+REG NO:23008746
 ```
 
 ```
